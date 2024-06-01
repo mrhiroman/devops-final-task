@@ -1,4 +1,4 @@
-![image](https://github.com/mrhiroman/devops-final-task/assets/49946437/25163a78-1424-4772-9d2c-6dc1ecd689be)# devops-final-task
+# devops-final-task
 
 Описание приложения:
 
